@@ -1,2 +1,2 @@
 # AnyRTD
-Delivering anything to anywhere via the Internet in real time.
+Delivering anything digital to anywhere on Internet in realtime.
