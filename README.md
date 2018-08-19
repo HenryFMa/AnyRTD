@@ -8,4 +8,4 @@ Everything connected benefits and contributes. For example,
 * [Status: A Mobile Ethereum OS](https://status.im/)
 * [RightMesh](https://www.rightmesh.io/)
 * [PeerMesh.io](http://peermesh.io/index.html)
-* [TaiiNet: Fully decentralized peer to peer mesh networking for the browser.](https://github.com/Taiiwo/TaiiNet)
+* [TaiiNet: Fully decentralized peer to peer mesh networking for the browser](https://github.com/Taiiwo/TaiiNet)
